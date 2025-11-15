@@ -20,7 +20,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/0x0QYLX2qrM)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
   
