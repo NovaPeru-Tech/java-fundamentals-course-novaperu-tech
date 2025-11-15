@@ -62,7 +62,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/JOkqdlQA6) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [Prueba de conocimientos](https://forms.gle/NtvTtRhV5av9b8N2A)
 - Compartir: #JavaBeginners
   
 **¡Gracias por completar el curso!**
