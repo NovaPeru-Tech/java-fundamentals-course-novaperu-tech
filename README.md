@@ -32,9 +32,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/fvbFX3TA91g)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/JOkqdlQA6) 👈 **¡No necesitas registrarte!**
   
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/JOkqdlQA6) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
