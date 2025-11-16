@@ -13,7 +13,7 @@ class Pet {
     }
 }
 
-public class Main {
+public class Lesson4 {
     public static void greetUser() {
         System.out.println("Bienvenida al programa de mascotas");
     }
