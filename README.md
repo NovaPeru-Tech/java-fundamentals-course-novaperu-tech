@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: Introducción a Java y sintaxis básica (10 minutos)
 - **Descripción**: Qué es la programación, qué es Java, para qué se usa y cómo funcionan las variables y los tipos de datos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/bpc30RH2enc)
 - **Conclusiones clave**: Java se usa en muchas aplicaciones; las variables permiten almacenar datos en un programa.
 - **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
   
