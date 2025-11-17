@@ -36,9 +36,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Una clase define la estructura de un objeto; los objetos combinan datos y comportamiento.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
   
-### Lección 5: POO básica y estructuras de datos simples (10 minutos)
+### Lección 5: POO básica y estructuras de datos simples (5 minutos)
 - **Descripción**: Aplica encapsulación con getters y setters y trabaja con arrays de objetos para organizar la información.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=sClOO-FMhCQ)
 - **Conclusiones clave**: La encapsulación protege los datos; los arrays permiten manejar colecciones de objetos.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
