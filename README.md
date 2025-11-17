@@ -16,7 +16,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Qué es la programación, qué es Java, para qué se usa y cómo funcionan las variables y los tipos de datos.
 - **Enlace**: [Ver la lección](https://youtu.be/bpc30RH2enc)
 - **Conclusiones clave**: Java se usa en muchas aplicaciones; las variables permiten almacenar datos en un programa.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
   
 ### Lección 2: Operadores y estructuras de control (10 minutos)
 - **Descripción**: Aprende a usar operadores aritméticos y lógicos, sentencias if-else y bucles como for y while.
@@ -28,25 +28,25 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Crea métodos reutilizables, organiza tu código y usa la entrada por consola con Scanner.
 - **Enlace**: [Ver la lección](https://youtu.be/Q3fkAD3RbyI)
 - **Conclusiones clave**: Los métodos ayudan a dividir el código en partes reutilizables; la entrada/salida permite interactuar con el usuario.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/Nevt6qaB2J) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
   
 ### Lección 4: Introducción a la POO: clases, objetos y constructores (12 minutos)
 - **Descripción**: Introducción a la Programación Orientada a Objetos: definición de clases, creación de objetos y uso de constructores.
 - **Enlace**: [Ver la lección](https://youtu.be/fvbFX3TA91g)
 - **Conclusiones clave**: Una clase define la estructura de un objeto; los objetos combinan datos y comportamiento.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/JOkqdlQA6) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
   
 ### Lección 5: POO básica y estructuras de datos simples (10 minutos)
 - **Descripción**: Aplica encapsulación con getters y setters y trabaja con arrays de objetos para organizar la información.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: La encapsulación protege los datos; los arrays permiten manejar colecciones de objetos.
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
 ### Lección 6: Proyecto POO y próximos pasos (10 minutos)
 - **Descripción**: Integra todo lo aprendido en un programa sencillo orientado a objetos, revisa buenas prácticas y dónde seguir aprendiendo.
 - **Enlace**: [Ver la lección](https://youtu.be/poz_eE5lFTI)
-- **Consejos clave**: Depurar errores, leer mensajes del compilador, explorar la documentación oficial de Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Consejos clave**: Aprender a crear un proyecto en POO, explorar la documentación oficial de Java.
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
 ---
 
