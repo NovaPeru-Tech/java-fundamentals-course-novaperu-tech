@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 6: Proyecto POO y próximos pasos (10 minutos)
 - **Descripción**: Integra todo lo aprendido en un programa sencillo orientado a objetos, revisa buenas prácticas y dónde seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/poz_eE5lFTI)
 - **Consejos clave**: Depurar errores, leer mensajes del compilador, explorar la documentación oficial de Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 
