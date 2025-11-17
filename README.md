@@ -58,7 +58,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |-------------------|------------------------------|---------------------------------------------------------------------|
 | 1                 | Hola mundo                   | [Replit](https://replit.com/@your-lesson1)                         |
 | 2                 | Operadores y control de flujo| [JDoodle](https://www.jdoodle.com/online-java-compiler)                         |
-| 3                 | Métodos y entrada            | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3)    |
+| 3                 | Métodos y entrada            | [OnlineGDB](https://onlinegdb.com/Nevt6qaB2J)    |
 | 4                 | Clases y objetos             | [OnlineGDB](https://onlinegdb.com/JOkqdlQA6)                        |
 | 5                 | Arrays de objetos            | [Replit](https://replit.com/@your-lesson5)                         |
 | 6                 | Proyecto POO                 | [Replit](https://replit.com/@your-lesson6)                         |
