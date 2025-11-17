@@ -12,13 +12,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de la Lección
 
-### Lección 1: Introducción a Java y sintaxis básica (10 minutos)
+### Lección 1: Introducción a Java y sintaxis básica (8 minutos)
 - **Descripción**: Qué es la programación, qué es Java, para qué se usa y cómo funcionan las variables y los tipos de datos.
 - **Enlace**: [Ver la lección](https://youtu.be/bpc30RH2enc)
 - **Conclusiones clave**: Java se usa en muchas aplicaciones; las variables permiten almacenar datos en un programa.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
   
-### Lección 2: Operadores y estructuras de control (10 minutos)
+### Lección 2: Operadores y estructuras de control (7 minutos)
 - **Descripción**: Aprende a usar operadores aritméticos y lógicos, sentencias if-else y bucles como for y while.
 - **Enlace**: [Ver la lección](https://youtu.be/0x0QYLX2qrM)
 - **Conclusiones clave**: Los operadores permiten hacer cálculos y comparaciones; las estructuras de control permiten tomar decisiones y repetir acciones.
@@ -30,7 +30,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Los métodos ayudan a dividir el código en partes reutilizables; la entrada/salida permite interactuar con el usuario.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
   
-### Lección 4: Introducción a la POO: clases, objetos y constructores (12 minutos)
+### Lección 4: Introducción a la POO: clases, objetos y constructores (14 minutos)
 - **Descripción**: Introducción a la Programación Orientada a Objetos: definición de clases, creación de objetos y uso de constructores.
 - **Enlace**: [Ver la lección](https://youtu.be/fvbFX3TA91g)
 - **Conclusiones clave**: Una clase define la estructura de un objeto; los objetos combinan datos y comportamiento.
@@ -42,7 +42,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: La encapsulación protege los datos; los arrays permiten manejar colecciones de objetos.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
-### Lección 6: Proyecto POO y próximos pasos (10 minutos)
+### Lección 6: Proyecto POO y próximos pasos (14 minutos)
 - **Descripción**: Integra todo lo aprendido en un programa sencillo orientado a objetos, revisa buenas prácticas y dónde seguir aprendiendo.
 - **Enlace**: [Ver la lección](https://youtu.be/poz_eE5lFTI)
 - **Consejos clave**: Aprender a crear un proyecto en POO, explorar la documentación oficial de Java.
