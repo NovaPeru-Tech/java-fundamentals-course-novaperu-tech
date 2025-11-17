@@ -24,11 +24,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Los operadores permiten hacer cálculos y comparaciones; las estructuras de control permiten tomar decisiones y repetir acciones.
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
   
-### Lección 3: Métodos y Entrada/Salida (10 minutos)
+### Lección 3: Métodos y Entrada/Salida (5 minutos)
 - **Descripción**: Crea métodos reutilizables, organiza tu código y usa la entrada por consola con Scanner.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/Q3fkAD3RbyI)
 - **Conclusiones clave**: Los métodos ayudan a dividir el código en partes reutilizables; la entrada/salida permite interactuar con el usuario.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/Nevt6qaB2J) 👈 **¡Inicio inmediato!**
   
 ### Lección 4: Introducción a la POO: clases, objetos y constructores (12 minutos)
 - **Descripción**: Introducción a la Programación Orientada a Objetos: definición de clases, creación de objetos y uso de constructores.
